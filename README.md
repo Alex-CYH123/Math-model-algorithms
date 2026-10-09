@@ -1,4 +1,4 @@
 # Math-model-algorithms
-数学建模里的常用算法
+数学建模里的常用算法，及历年真题
 
 
